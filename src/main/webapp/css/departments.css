@@ -1,0 +1,5 @@
+.errors {color: #ff0000; font-weight:bold;margin-left:50px;}
+tr.tableheading th {text-align:center}
+tr.tabledata td {text-align:center}
+tr.row0 {background: #d0d0d0;text-align:center}
+tr.row1 {background: #ffffff;text-align:center}
